@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 21 20:21:09 2023
 
-@author: Ranjan Kumar Phukan
-"""
 
 from flask import Flask
 
